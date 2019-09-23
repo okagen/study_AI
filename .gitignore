@@ -1,4 +1,10 @@
 Ref_*
+Data/*.zip
+Data/01_*/*.csv
+Data/01_*/*.txt
+Data/01_*/*.r
+Data/01_*/*.dot
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
